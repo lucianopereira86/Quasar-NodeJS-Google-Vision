@@ -68,12 +68,12 @@ Extract text from images by using Google Vision, Quasar v1 and NodeJS API.
 	
 - At the main screen, press the "Choose File" button:
 
-![quasar01](/docs/quasar01.JPG)
+![quasar01](/docs/quasar1.JPG)
 	
 - Choose a image and press the "Upload" button:
 
-![quasar02](/docs/quasar02.JPG)
+![quasar02](/docs/quasar2.JPG)
 
 - If the Google Vision API detects text inside the image, it will be extracted and returned to the app:
 
-![quasar03](/docs/quasar03.JPG)
+![quasar03](/docs/quasar3.JPG)
