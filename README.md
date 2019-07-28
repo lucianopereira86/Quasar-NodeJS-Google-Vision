@@ -14,27 +14,39 @@ Extract text from images by using Google Vision, Quasar v1 and NodeJS API.
 
 ### Google Cloud Platform
 
-- Create a project and enable billing:
+- Create a new project:
 	
 ![vision01](/docs/vision01.JPG)
 
+- Give a name to the project and press on "CREATE":
+
 ![vision02](/docs/vision02.JPG)
+
+- Create a billing for the project. Just follow these [instructions](https://cloud.google.com/billing/docs/how-to/modify-project):
 
 ![vision03](/docs/vision03.JPG)
 
-- Activate APIs and services and enable Google Vision API:
+- At the APIs & Services dashboar, press on "ENABLE APIS AND SERVICES":
 
 ![vision04](/docs/vision04.JPG)
 
+- Manage Google Vision API:
+
 ![vision05](/docs/vision05.JPG)
 
-- Create credentials for this API without App Engine and Computer Engine. Choose the owner role and JSON type file. Download the credentials.
+- Create service account credentials for this API:
 
 ![vision06](/docs/vision06.JPG)
 
+- Choose not using App Engine neither Computer Engine:
+
 ![vision07](/docs/vision07.JPG)
 
+- Select the project owner role and the JSON type file.
+
 ![vision08](/docs/vision08.JPG)
+
+- Download the credentials file.
 
 ![vision09](/docs/vision09.JPG)
 
