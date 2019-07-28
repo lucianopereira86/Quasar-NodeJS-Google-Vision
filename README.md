@@ -26,7 +26,7 @@ Extract text from images by using Google Vision, Quasar v1 and NodeJS API.
 
 ![vision03](/docs/vision03.JPG)
 
-- At the APIs & Services dashboar, press on "ENABLE APIS AND SERVICES":
+- At the APIs & Services dashboard, press on "ENABLE APIS AND SERVICES":
 
 ![vision04](/docs/vision04.JPG)
 
