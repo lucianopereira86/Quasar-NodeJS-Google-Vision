@@ -1,4 +1,4 @@
-![titulo](/docs/titulo.JPG)
+![titulo](/docs/titulo.jpg)
 
 # Quasar-NodeJS-Google-Vision
 
