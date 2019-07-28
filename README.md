@@ -42,7 +42,7 @@ Extract text from images by using Google Vision, Quasar v1 and NodeJS API.
 
 ![vision07](/docs/vision07.JPG)
 
-- Select the project owner role and the JSON type file.
+- Give a name to the service account, select the project owner role and the JSON type file.
 
 ![vision08](/docs/vision08.JPG)
 
